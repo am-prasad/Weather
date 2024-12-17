@@ -1,4 +1,4 @@
-# Weather Checking Website
+# **Weather Checking Website**
 
 ## Overview
 The Weather Checking Website is a web application that allows users to check the current weather in any city worldwide. It provides key weather information such as temperature, humidity, wind speed, and weather conditions using real-time data sourced from a reliable weather API.
